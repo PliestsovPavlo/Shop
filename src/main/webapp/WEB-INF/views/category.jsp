@@ -9,12 +9,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Category</title>
-<style>
-	.form-group>span{
-		display: block;
-		margin-left: 16.67%;
-	}
-</style>
+
 </head>
 <body>
 <jsp:include page="header.jsp"/>

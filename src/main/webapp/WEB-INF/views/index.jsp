@@ -12,7 +12,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+<jsp:include page="header.jsp"></jsp:include>
 		<a href="/registration">registration</a>
 		<a href="/login">login</a>
 		<a href="/admin">admin</a>
